@@ -1,3 +1,3 @@
 module "vpc" {
-    source = "../"
+    source = "OliviaMinoski/vpc/aws"
 }
